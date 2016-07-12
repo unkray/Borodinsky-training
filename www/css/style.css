@@ -1,0 +1,24 @@
+body {
+  font-size: 14px;
+  line-height: 24px;
+  font-family: "PT Sans Narrow", sans-serif;
+  color: #fff;
+  min-width: 940px;
+  margin: 0;
+  padding: 0;
+}
+
+.main-body {
+  background: #111 url("../img/body-bg.jpg") no-repeat center top;
+}
+
+.container {
+  width: 940px;
+  margin: 0 auto;
+}
+
+.index-logo {
+  width: 368px;
+  height: 204px;
+  margin: auto;
+}
