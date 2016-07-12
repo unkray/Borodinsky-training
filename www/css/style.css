@@ -1,15 +1,22 @@
 body {
-  font-size: 14px;
-  line-height: 24px;
-  font-family: "PT Sans Narrow", sans-serif;
-  color: #fff;
+  /* Позиционирование */
+  /* Блочная модель */
   min-width: 940px;
   margin: 0;
   padding: 0;
+  /* Типографика */
+  font-size: 14px;
+  line-height: 24px;
+  font-family: "PT Sans Narrow", sans-serif;
+  /* Оформление */
+  background-color: #111;
+  color: #fff;
+  /* Анимация */
+  /* Разное */
 }
 
 .main-body {
-  background: #111 url("../img/body-bg.jpg") no-repeat center top;
+  background: url("../img/body-bg.jpg") no-repeat center top;
 }
 
 .container {
